@@ -24,3 +24,6 @@ body {
   margin-right: 40px; /* same as native left separation for bullet point */
 }
 
+#main-header span {
+  color: #a70184;
+}
